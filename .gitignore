@@ -1,0 +1,12 @@
+*.pcap
+*.pcapng
+*.gnmap
+*.nmap
+*.xml
+*.log
+*.tmp
+.env
+id_rsa*
+*.key
+.vscode/
+*.db
